@@ -1,5 +1,5 @@
 # 💫 About Me:
-CSE | Java | C | C++ | DSA | Software Development | Video Editor 
+CSE | Java | C | C++ | DSA | Software Development | Video Editor |
 NLP & Machine Learning (learning)
 
 

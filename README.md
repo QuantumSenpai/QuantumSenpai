@@ -1,90 +1,102 @@
+<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,100:0a1628&height=160&section=header&text=Hey,%20I'm%20[Your%20Name]&fontSize=32&fontColor=00BFFF&fontAlignY=55&animation=fadeIn"/>
+```
+╔─────────────────────────────────────────────╗
+│                                             │
+│         [ Y O U R   N A M E ]              │
+│                                             │
+│   CSE  ·  Developer  ·  Creator            │
+│                                             │
+╚─────────────────────────────────────────────╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1500&color=00BFFF&center=true&vCenter=true&width=600&lines=CSE+Student+%7C+Developer+%7C+Creator;Building+software+%26+visual+stories.;Currently+exploring+NLP+%26+ML." alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1500&color=00B4D8&center=true&vCenter=true&width=500&lines=CSE+Student+%7C+Developer+%7C+Creator;Java+%7C+C+%7C+C%2B%2B+%7C+DSA;Currently+exploring+NLP+%26+ML.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 💫 About Me
+### ▸ about.me
 
-I'm a Computer Science Engineering student passionate about writing clean code and creating compelling visuals. I work across software development and creative media — from building DSA-driven solutions in Java to editing videos in DaVinci Resolve.
+Computer Science Engineering student who builds software and tells stories through visuals. I work across the full spectrum — from writing clean DSA solutions in **Java & C++** to cutting cinematic sequences in **DaVinci Resolve**.
 
-Currently diving deeper into **NLP and Machine Learning**.
+Currently leveling up in **NLP and Machine Learning**.
 
----
-
-### 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00BFFF?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
+```yaml
+status   : CSE Undergrad · Open to Opportunities
+focus    : Software Development · DSA · Machine Learning (learning)
+creative : Video Editing · Motion Design · Content Writing
+```
 
 ---
 
-### 💻 Tech Stack
+### ▸ tech.stack
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-**Core CS**
-
-![DSA](https://img.shields.io/badge/DSA-00BFFF?style=flat-square&logo=leetcode&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-0074D9?style=flat-square&logo=mysql&logoColor=white)
-![Software Development](https://img.shields.io/badge/Software%20Dev-1572B6?style=flat-square&logo=github&logoColor=white)
-
-**AI / ML** *(learning)*
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00BFFF?style=flat-square&logo=openai&logoColor=white)
-
-**Creative Tools**
-
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-151515?style=flat-square&logo=davinci-resolve&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
-**Other**
-
-![Content Writing](https://img.shields.io/badge/Content%20Writing-00BFFF?style=flat-square&logo=markdown&logoColor=white)
+```
+Languages       │  Java   C   C++
+─────────────────┼─────────────────────────────────
+Core CS         │  DSA   DBMS   Software Development
+─────────────────┼─────────────────────────────────
+AI / ML         │  Machine Learning · NLP  [learning]
+─────────────────┼─────────────────────────────────
+Creative Suite  │  After Effects   Premiere Pro
+                │  DaVinci Resolve   Photoshop   Canva
+─────────────────┼─────────────────────────────────
+Other           │  Content Writing   Video Editing
+```
 
 ---
 
-### 📊 GitHub Stats
+### ▸ github.stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0221&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true&background=0d0221&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" height="160"/>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d0221&title_color=00BFFF&text_color=c9d1d9" height="140"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060d1a&title_color=00b4d8&icon_color=00b4d8&text_color=8da0b3)
+&nbsp;
+![Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true&background=060d1a&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8)
 
----
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
+</div>
 
 ---
 
-### 🔝 Top Contributed Repos
+### ▸ top languages
 
-<img src="https://github-contributor-stats.vercel.app/api?username=YOURUSERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/>
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=060d1a&title_color=00b4d8&text_color=8da0b3)
+
+</div>
+
+---
+
+### ▸ trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)
+
+</div>
+
+---
+
+### ▸ connect
+
+| Platform | Link |
+|----------|------|
+| LinkedIn | [linkedin.com/in/YOURHANDLE](https://linkedin.com) |
+| Twitter / X | [x.com/YOURHANDLE](https://twitter.com) |
+| Instagram | [instagram.com/YOURHANDLE](https://instagram.com) |
+| Portfolio | [yourportfolio.com](https://yourportfolio.com) |
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile+Views&color=00BFFF&style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&color=00b4d8&label=profile+views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:0d0221&height=100&section=footer"/>
-
-*© 2025 · All Rights Reserved*
+```
+© 2025 · YOUR NAME · All Rights Reserved
+```
 
 </div>

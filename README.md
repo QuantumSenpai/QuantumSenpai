@@ -17,22 +17,11 @@
 
 ---
 
-```
-  ██╗  ██╗██╗███████╗██╗   ██╗    ██╗
-  ██║ ██╔╝██║██╔════╝██║   ██║   ████╗
-  █████╔╝ ██║███████╗██║   ██║   ╚██╔╝
-  ██╔═██╗ ██║╚════██║██║   ██║    ██╔╝
-  ██║  ██╗██║███████║╚██████╔╝   ██████╗
-  ╚═╝  ╚═╝╚═╝╚══════╝ ╚═════╝    ╚═════╝
-```
-
----
-
 ### ◈ ABOUT ME
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
 ```python
 class Kisu:
@@ -59,34 +48,35 @@ class Kisu:
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="25%" valign="top">
 
 ```yaml
 # system_status.yaml
 
 uptime       : 24/7 ⚡
-current_mood : focused 🎯
-music        : lo-fi + anime OSTs 🎵
+mood         : focused 🎯
+music        : lo-fi + anime OSTs
 
-currently_building:
-  - DSA problem streak
-  - ML & NLP fundamentals
-  - creative motion projects
+building:
+  - DSA streak
+  - ML & NLP basics
+  - motion projects
 
 fun_facts:
-  - edits videos like a pro
-  - writes content that hits
-  - debugs at 2am willingly
+  - edits videos pro
+  - debugs at 2am
   - runs on chai ☕
 
 quote: >
-  "Ship it. Improve it. Repeat."
+  "Ship it.
+   Improve it.
+   Repeat."
 ```
 
 </td>
-<td width="0%" valign="top" align="right">
+<td width="23%" valign="middle" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200"/>
 
 </td>
 </tr>
@@ -135,7 +125,8 @@ quote: >
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itxkisu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060d1a&title_color=00b4d8&icon_color=00b4d8&text_color=8da0b3&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itxkisu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060d1a&title_color=00b4d8&icon_color=00b4d8&text_color=8da0b3&count_private=true"/>
+&nbsp;
 <img height="170" src="https://streak-stats.demolab.com?user=itxkisu&theme=tokyonight&hide_border=true&background=060d1a&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=8da0b3&dates=5a7a99&currStreakNum=ffffff&sideNums=ffffff"/>
 
 <br/>
@@ -160,7 +151,7 @@ quote: >
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itxkisu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/itxkisu)
+[![trophy](https://github-profile-trophy.vercel.app/?username=itxkisu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4)](https://github.com/itxkisu)
 
 </div>
 
@@ -170,7 +161,9 @@ quote: >
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="35"/>
+
+<br/><br/>
 
 [![Email](https://img.shields.io/badge/Gmail-itxkisu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060d1a)](mailto:itxkisu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krishnendu158-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060d1a)](https://www.linkedin.com/in/krishnendu158)

@@ -1,143 +1,130 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:0a1b2f,70:0f3d5e,100:00b4d8&text=KRISHNENDU%20ADAK&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Java%20%7C%20C%20%7C%20C%2B%2B%20%7C%20DSA%20%7C%20ML%20Learner%20%7C%20Creative%20Editor&descAlignY=58&descSize=16&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0d0d0d,100:1a1a1a&height=180&section=header&text=KRISHNENDU%20ADAK&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=‹%20kisu%20›%20%7C%20developer%20·%20creator%20·%20thinker&descSize=14&descAlignY=72&descAlign=50&animation=fadeIn&stroke=ffffff&strokeWidth=1"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=18&duration=2600&pause=900&color=EAF6FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+space;Building+clean+logic+and+cinematic+visuals;Leveling+up+in+DSA%2C+ML+and+NLP;Creating+projects+that+look+good+and+work+hard)](https://git.io/typing-svg)
+</div>
 
-<br/>
+<div align="center">
 
-![](https://img.shields.io/badge/Role-Developer%20%26%20Creator-00b4d8?style=for-the-badge&labelColor=09111f)
-![](https://img.shields.io/badge/Focus-Java%20%7C%20DSA%20%7C%20ML-118ab2?style=for-the-badge&labelColor=09111f)
-![](https://img.shields.io/badge/Status-Open%20to%20Opportunities-eaf6ff?style=for-the-badge&logo=githubsponsors&logoColor=09111f&labelColor=00b4d8)
-![](https://komarev.com/ghpvc/?username=itxkisu&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=%3E+B.Tech+CSE+%40+Adamas+University%2C+Barasat;%3E+Java+%7C+C+%7C+C%2B%2B+%7C+DSA+%7C+DBMS;%3E+After+Effects+%7C+DaVinci+%7C+Photoshop;%3E+Currently+leveling+up%3A+ML+%26+NLP;%3E+Runs+on+chai+%E2%98%95+and+lo-fi+beats)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="38%" align="center" valign="top">
-
-<img src="https://avatars.githubusercontent.com/itxkisu?s=400" width="220" style="border-radius: 18px;" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/From-Ghatal%2C%20West%20Bengal-0a1b2f?style=flat-square&logo=googlemaps&logoColor=00b4d8" />
 <br/>
-<img src="https://img.shields.io/badge/College-Adamas%20University-0a1b2f?style=flat-square&logo=academia&logoColor=00b4d8" />
-<br/>
-<img src="https://img.shields.io/badge/Branch-B.Tech%20CSE-0a1b2f?style=flat-square&logo=bookstack&logoColor=00b4d8" />
-<br/>
-<img src="https://img.shields.io/badge/Semester-2nd%20Year%20%7C%204th%20Sem-0a1b2f?style=flat-square&logo=codementor&logoColor=00b4d8" />
 
-</td>
-<td width="62%" valign="top">
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    SYSTEM IDENTIFICATION                     ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ```python
-class KrishnenduAdak:
-    name = "Krishnendu Adak"
-    alias = "kisu"
-    role = "Developer and Creative Editor"
-    location = "Ghatal, West Bengal, India"
-    education = "B.Tech in CSE @ Adamas University"
+class Kisu:
+    name       = "Krishnendu Adak"
+    alias      = "kisu"
+    college    = "Adamas University, Barasat"
+    degree     = "B.Tech — Computer Science & Engineering"
+    semester   = "2nd Year · 4th Semester"
+    origin     = "Ghatal, West Bengal, India"
+    contact    = "itxkisu@gmail.com"
 
-    languages = ["Java", "C", "C++"]
-    fundamentals = ["DSA", "DBMS", "Software Development"]
-    exploring = ["Machine Learning", "NLP"]
-    creative_stack = [
-        "After Effects", "Premiere Pro",
-        "DaVinci Resolve", "Photoshop", "Canva"
-    ]
+    stack      = ["Java", "C", "C++", "DSA", "DBMS"]
+    creative   = ["After Effects", "Premiere Pro", "DaVinci Resolve",
+                  "Photoshop", "Canva"]
+    exploring  = ["Machine Learning", "Natural Language Processing"]
 
-    current_goal = "Build projects that feel sharp, useful, and memorable."
+    motto      = "Build it. Break it. Understand it. Ship it."
+
+    def __init__(self):
+        self.status   = "open to opportunities 🟢"
+        self.mood     = "focused, always"
+        self.fuel     = "chai ☕ + anime OSTs"
 ```
 
-I enjoy mixing logic with creativity, whether that means solving DSA problems, learning ML concepts, or making edits that feel cinematic.  
-Right now, I am focused on becoming stronger in problem solving, core CS, and building projects that stand out visually and technically.
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
-## Current Radar
+### `> TECH.STACK`
 
 <div align="center">
 
-| Mode | What I am Doing |
-| --- | --- |
-| `DSA` | Building consistency and improving problem-solving speed |
-| `Java` | Strengthening OOP, logic building, and implementation |
-| `ML / NLP` | Learning fundamentals step by step through hands-on practice |
-| `Creative Work` | Editing motion-heavy visuals with a polished style |
+**// Languages**
 
-</div>
+![Java](https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=openjdk&logoColor=000000)
+![C](https://img.shields.io/badge/C-ffffff?style=flat-square&logo=c&logoColor=000000)
+![C++](https://img.shields.io/badge/C++-ffffff?style=flat-square&logo=cplusplus&logoColor=000000)
 
----
+**// Core CS**
 
-## Tech Stack
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-111111?style=flat-square&logo=leetcode&logoColor=ffffff)
+![DBMS](https://img.shields.io/badge/DBMS-111111?style=flat-square&logo=mysql&logoColor=ffffff)
+![SoftwareDev](https://img.shields.io/badge/Software%20Development-111111?style=flat-square&logo=github&logoColor=ffffff)
 
-<div align="center">
+**// Creative Suite**
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![AE](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+![PR](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+![DaVinci](https://img.shields.io/badge/DaVinci%20Resolve-333333?style=flat-square&logo=davinciresolve&logoColor=white)
+![PS](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-### Core CS
-![DSA](https://img.shields.io/badge/DSA-00b4d8?style=for-the-badge&logo=leetcode&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-0077b6?style=for-the-badge&logo=mysql&logoColor=white)
-![Software Development](https://img.shields.io/badge/Software%20Development-023e8a?style=for-the-badge&logo=github&logoColor=white)
+**// Currently Unlocking**
 
-### AI Journey
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff7b00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00b4d8?style=for-the-badge&logo=openai&logoColor=white)
-
-### Creative Suite
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233044?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-222222?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![NLP](https://img.shields.io/badge/NLP-222222?style=flat-square&logo=openai&logoColor=ffffff)
 
 </div>
 
 ---
 
-## Github Analytics
+### `> GITHUB.STATS`
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itxkisu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b4d8&icon_color=00b4d8&text_color=e6edf3&count_private=true" />
-<img height="170" src="https://streak-stats.demolab.com?user=itxkisu&theme=tokyonight&hide_border=true&background=0D1117&ring=00b4d8&fire=00b4d8&currStreakLabel=e6edf3&sideLabels=8da0b3&dates=5f7f99&currStreakNum=e6edf3&sideNums=e6edf3" />
-</div>
 
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxkisu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b4d8&text_color=e6edf3&langs_count=8" />
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=itxkisu&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&count_private=true&rank_icon=github"/>
+&nbsp;
+<img height="165" src="https://streak-stats.demolab.com?user=itxkisu&theme=dark&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555&currStreakNum=ffffff&sideNums=ffffff"/>
 
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=itxkisu&theme=react-dark&bg_color=0D1117&color=00b4d8&line=5eead4&point=e6edf3&area=true&area_color=0a1b2f&hide_border=true" />
-</div>
+<br/>
 
----
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxkisu&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&langs_count=6"/>
 
-## Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=itxkisu&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
 </div>
 
 ---
 
-## Connect With Me
+### `> CONTRIBUTION.GRAPH`
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-itxkisu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itxkisu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishnendu158-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnendu158)
-[![Instagram](https://img.shields.io/badge/Instagram-aura4.vibes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aura4.vibes)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itxkisu&theme=github-compact&bg_color=0d0d0d&color=ffffff&line=555555&point=ffffff&area=true&area_color=1a1a1a&hide_border=true)](https://github.com/itxkisu)
+
+</div>
+
+---
+
+### `> TROPHIES`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=itxkisu&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4)](https://github.com/itxkisu)
+
+</div>
+
+---
+
+### `> CONNECT`
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-itxkisu%40gmail.com-ffffff?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=111111)](mailto:itxkisu@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishnendu158-ffffff?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=111111)](https://www.linkedin.com/in/krishnendu158)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-aura4.vibes-ffffff?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=111111)](https://instagram.com/aura4.vibes)
 
 </div>
 
@@ -145,10 +132,17 @@ Right now, I am focused on becoming stronger in problem solving, core CS, and bu
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:0f3d5e,100:00b4d8&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Let%27s%20build%20something%20sharp%2C%20creative%2C%20and%20real.&descSize=14&descAlignY=70" />
-
-```text
-Ship it. Improve it. Repeat.
 ```
+╔══════════════════════════════════════════════════════════════╗
+║   "Build it. Break it. Understand it. Ship it."             ║
+║                                              — kisu          ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=90&section=footer&text=thanks%20for%20stopping%20by%20—%20let%27s%20build%20something%20real&fontAlignY=65&fontSize=12&fontColor=888888"/>
+
+*© 2025 Krishnendu Adak · All Rights Reserved*
+
+![Profile Views](https://komarev.com/ghpvc/?username=itxkisu&style=flat-square&color=ffffff&label=VISITORS&labelColor=111111)
 
 </div>

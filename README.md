@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06030f,30:1a0a1a,60:3d1a3d,100:ff9fc8&height=220&section=header&text=KRISHNENDU%20ADAK&fontSize=44&fontColor=ffffff&fontAlignY=45&desc=%E2%9D%B0%20kisu%20%E2%9D%B1%20%7C%20developer%20%C2%B7%20creator%20%C2%B7%20dreamer&descSize=15&descAlignY=68&descAlign=50&animation=twinkling&stroke=ff9fc8&strokeWidth=1.5"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06030f,30:060d1a,60:0a1f3d,100:00b4d8&height=220&section=header&text=KRISHNENDU%20ADAK&fontSize=44&fontColor=ffffff&fontAlignY=45&desc=%E2%9D%B0%20kisu%20%E2%9D%B1%20%7C%20developer%20%C2%B7%20creator%20%C2%B7%20dreamer&descSize=15&descAlignY=68&descAlign=50&animation=twinkling&stroke=00b4d8&strokeWidth=1.5"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=14&duration=2600&pause=1000&color=FF9FC8&center=true&vCenter=true&width=640&lines=%3E+B.Tech+CSE+%40+Adamas+University%2C+Barasat;%3E+Java+%7C+C+%7C+C%2B%2B+%7C+DSA+%7C+DBMS;%3E+After+Effects+%7C+DaVinci+%7C+Photoshop;%3E+Currently+leveling+up%3A+ML+%26+NLP+%F0%9F%8C%B8;%3E+Runs+on+chai+%E2%98%95+%2B+anime+OSTs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=14&duration=2600&pause=1000&color=00B4D8&center=true&vCenter=true&width=640&lines=%3E+B.Tech+CSE+%40+Adamas+University%2C+Barasat;%3E+Java+%7C+C+%7C+C%2B%2B+%7C+DSA+%7C+DBMS;%3E+After+Effects+%7C+DaVinci+%7C+Photoshop;%3E+Currently+leveling+up%3A+ML+%26+NLP+%F0%9F%8C%B8;%3E+Runs+on+chai+%E2%98%95+%2B+anime+OSTs)](https://git.io/typing-svg)
 
 <br/>
 
 ![](https://img.shields.io/badge/B.Tech_CSE-06030f?style=flat-square&labelColor=06030f&color=06030f&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iNSIgY3k9IjUiIHI9IjUiIGZpbGw9IiNmZjlmYzgiLz48L3N2Zz4=)
-![](https://img.shields.io/badge/B.Tech_CSE-ff9fc8?style=flat-square&labelColor=1a0a1a)
-![](https://img.shields.io/badge/2nd_Year_·_4th_Sem-c4b5fd?style=flat-square&labelColor=1a0a1a)
-![](https://img.shields.io/badge/Open_to_Opportunities_🟢-86efac?style=flat-square&labelColor=1a0a1a)
-![](https://komarev.com/ghpvc/?username=itxkisu&style=flat-square&color=ff9fc8&label=VISITORS&labelColor=1a0a1a)
+![](https://img.shields.io/badge/B.Tech_CSE-00b4d8?style=flat-square&labelColor=060d1a)
+![](https://img.shields.io/badge/2nd_Year_·_4th_Sem-7dd3fc?style=flat-square&labelColor=060d1a)
+![](https://img.shields.io/badge/Open_to_Opportunities_🟢-38bdf8?style=flat-square&labelColor=060d1a)
+![](https://komarev.com/ghpvc/?username=itxkisu&style=flat-square&color=00b4d8&label=VISITORS&labelColor=060d1a)
 
 </div>
 
@@ -91,28 +91,28 @@ status    : open to opportunities 🟢
 
 **— Languages —**
 
-![Java](https://img.shields.io/badge/Java-ff9fc8?style=for-the-badge&logo=openjdk&logoColor=06030f&labelColor=1a0a1a)
-![C](https://img.shields.io/badge/C-ff9fc8?style=for-the-badge&logo=c&logoColor=06030f&labelColor=1a0a1a)
-![C++](https://img.shields.io/badge/C++-ff9fc8?style=for-the-badge&logo=cplusplus&logoColor=06030f&labelColor=1a0a1a)
+![Java](https://img.shields.io/badge/Java-00b4d8?style=for-the-badge&logo=openjdk&logoColor=06030f&labelColor=060d1a)
+![C](https://img.shields.io/badge/C-00b4d8?style=for-the-badge&logo=c&logoColor=06030f&labelColor=060d1a)
+![C++](https://img.shields.io/badge/C++-00b4d8?style=for-the-badge&logo=cplusplus&logoColor=06030f&labelColor=060d1a)
 
 **— Core CS —**
 
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algo-c4b5fd?style=for-the-badge&logo=leetcode&logoColor=06030f&labelColor=1a0a1a)
-![DBMS](https://img.shields.io/badge/DBMS-c4b5fd?style=for-the-badge&logo=mysql&logoColor=06030f&labelColor=1a0a1a)
-![SoftwareDev](https://img.shields.io/badge/Software_Dev-c4b5fd?style=for-the-badge&logo=github&logoColor=06030f&labelColor=1a0a1a)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algo-7dd3fc?style=for-the-badge&logo=leetcode&logoColor=06030f&labelColor=060d1a)
+![DBMS](https://img.shields.io/badge/DBMS-7dd3fc?style=for-the-badge&logo=mysql&logoColor=06030f&labelColor=060d1a)
+![SoftwareDev](https://img.shields.io/badge/Software_Dev-7dd3fc?style=for-the-badge&logo=github&logoColor=06030f&labelColor=060d1a)
 
 **— Creative Suite —**
 
-![AE](https://img.shields.io/badge/After_Effects-86efac?style=for-the-badge&logo=adobeaftereffects&logoColor=06030f&labelColor=1a0a1a)
-![PR](https://img.shields.io/badge/Premiere_Pro-86efac?style=for-the-badge&logo=adobepremierepro&logoColor=06030f&labelColor=1a0a1a)
-![DaVinci](https://img.shields.io/badge/DaVinci_Resolve-86efac?style=for-the-badge&logo=davinciresolve&logoColor=06030f&labelColor=1a0a1a)
-![PS](https://img.shields.io/badge/Photoshop-86efac?style=for-the-badge&logo=adobephotoshop&logoColor=06030f&labelColor=1a0a1a)
-![Canva](https://img.shields.io/badge/Canva-86efac?style=for-the-badge&logo=canva&logoColor=06030f&labelColor=1a0a1a)
+![AE](https://img.shields.io/badge/After_Effects-38bdf8?style=for-the-badge&logo=adobeaftereffects&logoColor=06030f&labelColor=060d1a)
+![PR](https://img.shields.io/badge/Premiere_Pro-38bdf8?style=for-the-badge&logo=adobepremierepro&logoColor=06030f&labelColor=060d1a)
+![DaVinci](https://img.shields.io/badge/DaVinci_Resolve-38bdf8?style=for-the-badge&logo=davinciresolve&logoColor=06030f&labelColor=060d1a)
+![PS](https://img.shields.io/badge/Photoshop-38bdf8?style=for-the-badge&logo=adobephotoshop&logoColor=06030f&labelColor=060d1a)
+![Canva](https://img.shields.io/badge/Canva-38bdf8?style=for-the-badge&logo=canva&logoColor=06030f&labelColor=060d1a)
 
 **— Unlocking *(lvl up in progress)* —**
 
-![ML](https://img.shields.io/badge/Machine_Learning-fde68a?style=for-the-badge&logo=tensorflow&logoColor=06030f&labelColor=1a0a1a)
-![NLP](https://img.shields.io/badge/NLP-fde68a?style=for-the-badge&logo=openai&logoColor=06030f&labelColor=1a0a1a)
+![ML](https://img.shields.io/badge/Machine_Learning-7dd3fc?style=for-the-badge&logo=tensorflow&logoColor=06030f&labelColor=060d1a)
+![NLP](https://img.shields.io/badge/NLP-7dd3fc?style=for-the-badge&logo=openai&logoColor=06030f&labelColor=060d1a)
 
 </div>
 
@@ -122,13 +122,13 @@ status    : open to opportunities 🟢
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itxkisu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06030f&title_color=ff9fc8&icon_color=c4b5fd&text_color=d4a0c8&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itxkisu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06030f&title_color=00b4d8&icon_color=7dd3fc&text_color=90caf9&count_private=true"/>
 &nbsp;
-<img height="170" src="https://streak-stats.demolab.com?user=itxkisu&theme=tokyonight&hide_border=true&background=06030f&ring=ff9fc8&fire=ff9fc8&currStreakLabel=ff9fc8&sideLabels=d4a0c8&dates=6b4d6b&currStreakNum=ffffff&sideNums=ffffff"/>
+<img height="170" src="https://streak-stats.demolab.com?user=itxkisu&theme=tokyonight&hide_border=true&background=06030f&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=90caf9&dates=1a3a5a&currStreakNum=ffffff&sideNums=ffffff"/>
 
 <br/>
 
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxkisu&layout=compact&theme=tokyonight&hide_border=true&bg_color=06030f&title_color=ff9fc8&text_color=d4a0c8&langs_count=6"/>
+<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxkisu&layout=compact&theme=tokyonight&hide_border=true&bg_color=06030f&title_color=00b4d8&text_color=90caf9&langs_count=6"/>
 
 </div>
 
@@ -138,7 +138,7 @@ status    : open to opportunities 🟢
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itxkisu&theme=react-dark&bg_color=06030f&color=ff9fc8&line=c4b5fd&point=ff9fc8&area=true&area_color=3d1a3d&hide_border=true)](https://github.com/itxkisu)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itxkisu&theme=react-dark&bg_color=06030f&color=00b4d8&line=7dd3fc&point=00b4d8&area=true&area_color=0a1f3d&hide_border=true)](https://github.com/itxkisu)
 
 </div>
 
@@ -160,11 +160,11 @@ status    : open to opportunities 🟢
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-itxkisu%40gmail.com-ff9fc8?style=for-the-badge&logo=gmail&logoColor=ff9fc8&labelColor=1a0a1a)](mailto:itxkisu@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-itxkisu%40gmail.com-00b4d8?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=060d1a)](mailto:itxkisu@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishnendu158-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=1a0a1a)](https://www.linkedin.com/in/krishnendu158)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishnendu158-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=060d1a)](https://www.linkedin.com/in/krishnendu158)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-aura4.vibes-f9a8d4?style=for-the-badge&logo=instagram&logoColor=f9a8d4&labelColor=1a0a1a)](https://instagram.com/aura4.vibes)
+[![Instagram](https://img.shields.io/badge/Instagram-aura4.vibes-7dd3fc?style=for-the-badge&logo=instagram&logoColor=7dd3fc&labelColor=060d1a)](https://instagram.com/aura4.vibes)
 
 </div>
 
@@ -181,7 +181,7 @@ status    : open to opportunities 🟢
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9fc8,50:3d1a3d,100:06030f&height=110&section=footer&text=thanks%20for%20visiting%20—%20let%27s%20build%20something%20real%20⚡&fontAlignY=62&fontSize=13&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a1f3d,100:06030f&height=110&section=footer&text=thanks%20for%20visiting%20—%20let%27s%20build%20something%20real%20⚡&fontAlignY=62&fontSize=13&fontColor=ffffff&animation=twinkling"/>
 
 *© 2025 · Krishnendu Adak · All Rights Reserved*
 

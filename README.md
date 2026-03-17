@@ -10,7 +10,6 @@
 
 <br/>
 
-![](https://img.shields.io/badge/B.Tech_CSE-06030f?style=flat-square&labelColor=06030f&color=06030f&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iNSIgY3k9IjUiIHI9IjUiIGZpbGw9IiNmZjlmYzgiLz48L3N2Zz4=)
 ![](https://img.shields.io/badge/B.Tech_CSE-00b4d8?style=flat-square&labelColor=060d1a)
 ![](https://img.shields.io/badge/2nd_Year_·_4th_Sem-7dd3fc?style=flat-square&labelColor=060d1a)
 ![](https://img.shields.io/badge/Open_to_Opportunities_🟢-38bdf8?style=flat-square&labelColor=060d1a)
@@ -32,54 +31,30 @@
 
 ### ◈ SYSTEM.IDENTIFY
 
-<table>
-<tr>
-<td width="50%" valign="top">
-```python
-class Kisu:
-    name     = "Krishnendu Adak"
-    alias    = "kisu"
-    college  = "Adamas University, Barasat"
-    degree   = "B.Tech — CSE"
-    year     = "2nd Year · 4th Semester"
-    home     = "Ghatal, West Bengal 🇮🇳"
-    email    = "itxkisu@gmail.com"
-
-    stack    = ["Java","C","C++","DSA","DBMS"]
-    creative = ["After Effects","Premiere Pro",
-                "DaVinci Resolve","Photoshop","Canva"]
-    learning = ["Machine Learning","NLP"]
-
-    def motto(self):
-        return "Build it. Break it. Understand it. Ship it. 🌸"
+<div align="center">
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    ── CHARACTER PROFILE ──                       ║
+╠══════════════════════════════════════════════════════════════════╣
+║  NAME        │  Krishnendu Adak               alias: kisu 🌸    ║
+║  CLASS       │  B.Tech CSE  ·  2nd Year  ·  4th Semester        ║
+║  GUILD       │  Adamas University, Barasat                       ║
+║  ORIGIN      │  Ghatal, West Bengal  🇮🇳                         ║
+║  CONTACT     │  itxkisu@gmail.com                                ║
+╠══════════════════════════════════════════════════════════════════╣
+║  SKILLS      │  Java · C · C++ · DSA · DBMS                     ║
+║  ARTS        │  After Effects · Premiere Pro · DaVinci           ║
+║              │  Photoshop · Canva                                ║
+║  TRAINING    │  ⟳ Machine Learning  ·  ⟳ NLP  [LVL UP...]       ║
+╠══════════════════════════════════════════════════════════════════╣
+║  STATUS      │  open to opportunities  🟢                        ║
+║  FUEL        │  chai ☕  +  anime OSTs 🌸                        ║
+║  WEAKNESS    │  2am debugging sessions                           ║
+║  MOTTO       │  Build it. Break it. Understand it. Ship it.      ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-<td width="50%" valign="top">
-```yaml
-# system_status.yaml
-
-uptime    : 24/7 ⚡
-mood      : focused 🎯
-music     : lo-fi + anime OSTs 🌸
-fuel      : chai ☕
-
-currently:
-  - grinding DSA
-  - exploring ML & NLP
-  - making motion projects
-
-fun_facts:
-  - edits videos like a pro
-  - debugs at 2am
-  - certified anime fanboy 🌸
-
-status    : open to opportunities 🟢
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 

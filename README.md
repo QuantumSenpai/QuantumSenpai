@@ -1,160 +1,174 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06030f,30:060d1a,60:0a1f3d,100:00b4d8&height=220&section=header&text=KRISHNENDU%20ADAK&fontSize=44&fontColor=ffffff&fontAlignY=45&desc=%E2%9D%B0%20kisu%20%E2%9D%B1%20%7C%20developer%20%C2%B7%20creator%20%C2%B7%20dreamer&descSize=15&descAlignY=68&descAlign=50&animation=twinkling&stroke=00b4d8&strokeWidth=1.5"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:06030f,40:0a1628,70:0d2040,100:00b4d8&height=280&section=header&text=KRISHNENDU%20ADAK&fontSize=52&fontColor=e0f2fe&fontAlignY=40&desc=quantum%20senpai%20%E2%80%94%20developer%20%2F%20creator%20%2F%20dreamer&descSize=16&descAlignY=62&descAlign=50&animation=fadeIn&stroke=00b4d8&strokeWidth=2"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=14&duration=2600&pause=1000&color=00B4D8&center=true&vCenter=true&width=640&lines=%3E+B.Tech+CSE+%40+Adamas+University%2C+Barasat;%3E+Java+%7C+C+%7C+C%2B%2B+%7C+DSA+%7C+DBMS;%3E+After+Effects+%7C+DaVinci+%7C+Photoshop;%3E+Currently+leveling+up%3A+ML+%26+NLP+%F0%9F%8C%B8;%3E+Runs+on+chai+%E2%98%95+%2B+anime+OSTs)](https://git.io/typing-svg)
-
-<br/>
-
-![](https://img.shields.io/badge/B.Tech_CSE-00b4d8?style=flat-square&labelColor=060d1a)
-![](https://img.shields.io/badge/2nd_Year_·_4th_Sem-7dd3fc?style=flat-square&labelColor=060d1a)
-![](https://img.shields.io/badge/Open_to_Opportunities_🟢-38bdf8?style=flat-square&labelColor=060d1a)
-![](https://komarev.com/ghpvc/?username=QuantumSenpai&style=flat-square&color=00b4d8&label=VISITORS&labelColor=060d1a)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=680&lines=B.Tech+CSE+%40+Adamas+University%2C+Barasat;Java+%7C+C+%7C+C%2B%2B+%7C+DSA+%7C+DBMS;After+Effects+%7C+DaVinci+Resolve+%7C+Photoshop;Currently+unlocking%3A+Machine+Learning+%26+NLP+%F0%9F%8C%B8;Runs+on+chai+%E2%98%95+and+anime+OSTs)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/2nd%20Year-4th%20Sem-00b4d8?style=flat-square&labelColor=0a1628&color=00b4d8)&nbsp;
+![](https://img.shields.io/badge/B.Tech-CSE-7dd3fc?style=flat-square&labelColor=0a1628)&nbsp;
+![](https://img.shields.io/badge/Status-Open%20to%20Opportunities%20%F0%9F%9F%A2-38bdf8?style=flat-square&labelColor=0a1628)&nbsp;
+![](https://komarev.com/ghpvc/?username=QuantumSenpai&style=flat-square&color=00b4d8&label=PROFILE+VIEWS&labelColor=0a1628)
+
+</div>
+
+<br/>
+
 ---
+
+## `whoami`
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+```python
+class QuantumSenpai:
+
+    name     = "Krishnendu Adak"
+    alias    = "kisu"
+    location = "Ghatal, West Bengal 🇮🇳"
+    college  = "Adamas University, Barasat"
+    degree   = "B.Tech CSE — 2nd Year"
+    contact  = "itxkisu@gmail.com"
+
+    stack    = ["Java", "C", "C++", "DSA", "DBMS"]
+    learning = ["Machine Learning", "NLP"]
+    creative = ["After Effects", "Premiere Pro",
+                "DaVinci Resolve", "Photoshop", "Canva"]
+
+    def motto(self):
+        return "Build it. Break it. Understand it. Ship it."
+```
+
+</td>
+<td width="48%" valign="top">
+
+```yaml
+# runtime.config
+
+uptime    : 24/7 ⚡
+mode      : grind.exe 🎯
+fuel      : chai ☕ + lo-fi 🎵
+os        : human v21.0
+
+current_tasks:
+  → grinding DSA daily
+  → exploring ML & NLP
+  → crafting motion design
+
+traits:
+  → debugs at 2am (no cap)
+  → edits like a pro editor
+  → certified anime fanboy 🌸
+
+availability: open_to_work ✅
+```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 *「 Build it. Break it. Understand it. Ship it. 」*
 
-🌸 ✦ 🌸 ✦ 🌸 ✦ 🌸
+</div>
+
+---
+
+## `tech.stack`
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-00b4d8?style=for-the-badge&logo=openjdk&logoColor=0a1628&labelColor=0d2040)
+![C](https://img.shields.io/badge/C-00b4d8?style=for-the-badge&logo=c&logoColor=0a1628&labelColor=0d2040)
+![C++](https://img.shields.io/badge/C++-00b4d8?style=for-the-badge&logo=cplusplus&logoColor=0a1628&labelColor=0d2040)
+
+**Core CS**
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-7dd3fc?style=for-the-badge&logo=leetcode&logoColor=0a1628&labelColor=0d2040)
+![DBMS](https://img.shields.io/badge/DBMS-7dd3fc?style=for-the-badge&logo=mysql&logoColor=0a1628&labelColor=0d2040)
+![Git](https://img.shields.io/badge/Git-7dd3fc?style=for-the-badge&logo=git&logoColor=0a1628&labelColor=0d2040)
+
+**Creative Suite**
+
+![After Effects](https://img.shields.io/badge/After%20Effects-9f7aea?style=for-the-badge&logo=adobeaftereffects&logoColor=0a1628&labelColor=0d2040)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9f7aea?style=for-the-badge&logo=adobepremierepro&logoColor=0a1628&labelColor=0d2040)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-9f7aea?style=for-the-badge&logo=davinciresolve&logoColor=0a1628&labelColor=0d2040)
+![Photoshop](https://img.shields.io/badge/Photoshop-9f7aea?style=for-the-badge&logo=adobephotoshop&logoColor=0a1628&labelColor=0d2040)
+![Canva](https://img.shields.io/badge/Canva-9f7aea?style=for-the-badge&logo=canva&logoColor=0a1628&labelColor=0d2040)
+
+**Currently Unlocking 🔓**
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-38bdf8?style=for-the-badge&logo=tensorflow&logoColor=0a1628&labelColor=0d2040)
+![NLP](https://img.shields.io/badge/NLP-38bdf8?style=for-the-badge&logo=openai&logoColor=0a1628&labelColor=0d2040)
 
 </div>
 
 ---
 
-### ◈ SYSTEM.IDENTIFY
+## `github.stats`
 
 <div align="center">
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    ── CHARACTER PROFILE ──                       ║
-╠══════════════════════════════════════════════════════════════════╣
-║  NAME        │  Krishnendu Adak               alias: kisu 🌸    ║
-║  CLASS       │  B.Tech CSE  ·  2nd Year  ·  4th Semester        ║
-║  GUILD       │  Adamas University, Barasat                       ║
-║  ORIGIN      │  Ghatal, West Bengal  🇮🇳                         ║
-║  CONTACT     │  itxkisu@gmail.com                                ║
-╠══════════════════════════════════════════════════════════════════╣
-║  SKILLS      │  Java · C · C++ · DSA · DBMS                     ║
-║  ARTS        │  After Effects · Premiere Pro · DaVinci           ║
-║              │  Photoshop · Canva                                ║
-║  TRAINING    │  ⟳ Machine Learning  ·  ⟳ NLP  [LVL UP...]       ║
-╠══════════════════════════════════════════════════════════════════╣
-║  STATUS      │  open to opportunities  🟢                        ║
-║  FUEL        │  chai ☕  +  anime OSTs 🌸                        ║
-║  WEAKNESS    │  2am debugging sessions                           ║
-║  MOTTO       │  Build it. Break it. Understand it. Ship it.      ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=QuantumSenpai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06030f&title_color=00b4d8&icon_color=7dd3fc&text_color=90caf9&count_private=true&rank_icon=github"/>
+&nbsp;&nbsp;
+<img height="180" src="https://streak-stats.demolab.com?user=QuantumSenpai&theme=tokyonight&hide_border=true&background=06030f&ring=00b4d8&fire=38bdf8&currStreakLabel=00b4d8&sideLabels=90caf9&dates=1a3a5a&currStreakNum=e0f2fe&sideNums=e0f2fe"/>
+
+<br/><br/>
+
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumSenpai&layout=compact&theme=tokyonight&hide_border=true&bg_color=06030f&title_color=00b4d8&text_color=90caf9&langs_count=6"/>
 
 </div>
 
 ---
 
-### ◈ TECH.ARSENAL
+## `activity`
 
 <div align="center">
 
-**— Languages —**
-
-![Java](https://img.shields.io/badge/Java-00b4d8?style=for-the-badge&logo=openjdk&logoColor=06030f&labelColor=060d1a)
-![C](https://img.shields.io/badge/C-00b4d8?style=for-the-badge&logo=c&logoColor=06030f&labelColor=060d1a)
-![C++](https://img.shields.io/badge/C++-00b4d8?style=for-the-badge&logo=cplusplus&logoColor=06030f&labelColor=060d1a)
-
-**— Core CS —**
-
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algo-7dd3fc?style=for-the-badge&logo=leetcode&logoColor=06030f&labelColor=060d1a)
-![DBMS](https://img.shields.io/badge/DBMS-7dd3fc?style=for-the-badge&logo=mysql&logoColor=06030f&labelColor=060d1a)
-![SoftwareDev](https://img.shields.io/badge/Software_Dev-7dd3fc?style=for-the-badge&logo=github&logoColor=06030f&labelColor=060d1a)
-
-**— Creative Suite —**
-
-![AE](https://img.shields.io/badge/After_Effects-38bdf8?style=for-the-badge&logo=adobeaftereffects&logoColor=06030f&labelColor=060d1a)
-![PR](https://img.shields.io/badge/Premiere_Pro-38bdf8?style=for-the-badge&logo=adobepremierepro&logoColor=06030f&labelColor=060d1a)
-![DaVinci](https://img.shields.io/badge/DaVinci_Resolve-38bdf8?style=for-the-badge&logo=davinciresolve&logoColor=06030f&labelColor=060d1a)
-![PS](https://img.shields.io/badge/Photoshop-38bdf8?style=for-the-badge&logo=adobephotoshop&logoColor=06030f&labelColor=060d1a)
-![Canva](https://img.shields.io/badge/Canva-38bdf8?style=for-the-badge&logo=canva&logoColor=06030f&labelColor=060d1a)
-
-**— Unlocking *(lvl up in progress)* —**
-
-![ML](https://img.shields.io/badge/Machine_Learning-7dd3fc?style=for-the-badge&logo=tensorflow&logoColor=06030f&labelColor=060d1a)
-![NLP](https://img.shields.io/badge/NLP-7dd3fc?style=for-the-badge&logo=openai&logoColor=06030f&labelColor=060d1a)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuantumSenpai&theme=react-dark&bg_color=06030f&color=00b4d8&line=7dd3fc&point=38bdf8&area=true&area_color=0a1f3d&hide_border=true&radius=6)](https://github.com/QuantumSenpai)
 
 </div>
 
 ---
 
-### ◈ GITHUB.STATS
+## `trophies`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=QuantumSenpai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06030f&title_color=00b4d8&icon_color=7dd3fc&text_color=90caf9&count_private=true"/>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=QuantumSenpai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=8&column=4)](https://github.com/QuantumSenpai)
+
+</div>
+
+---
+
+## `connect`
+
+<div align="center">
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-itxkisu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d2040)](mailto:itxkisu@gmail.com)
 &nbsp;
-<img height="170" src="https://streak-stats.demolab.com?user=QuantumSenpai&theme=tokyonight&hide_border=true&background=06030f&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=90caf9&dates=1a3a5a&currStreakNum=ffffff&sideNums=ffffff"/>
-
-<br/>
-
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumSenpai&layout=compact&theme=tokyonight&hide_border=true&bg_color=06030f&title_color=00b4d8&text_color=90caf9&langs_count=6"/>
-
-</div>
-
----
-
-### ◈ CONTRIBUTION.GRAPH
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuantumSenpai&theme=react-dark&bg_color=06030f&color=00b4d8&line=7dd3fc&point=00b4d8&area=true&area_color=0a1f3d&hide_border=true)](https://github.com/QuantumSenpai)
-
-</div>
-
----
-
-### ◈ TROPHIES
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=QuantumSenpai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/QuantumSenpai)
-
-</div>
-
----
-
-### ◈ CONNECT
-
-<div align="center">
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-itxkisu%40gmail.com-00b4d8?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=060d1a)](mailto:itxkisu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishnendu158-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d2040)](https://www.linkedin.com/in/krishnendu158)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishnendu158-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=060d1a)](https://www.linkedin.com/in/krishnendu158)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-aura4.vibes-7dd3fc?style=for-the-badge&logo=instagram&logoColor=7dd3fc&labelColor=060d1a)](https://instagram.com/aura4.vibes)
+[![Instagram](https://img.shields.io/badge/Instagram-aura4.vibes-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d2040)](https://instagram.com/aura4.vibes)
+
+<br/><br/>
 
 </div>
 
----
-
-<div align="center">
-
-<br/>
-```
-「 Build it. Break it. Understand it. Ship it. 」
-                                          — kisu 🌸
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a1f3d,100:06030f&height=110&section=footer&text=thanks%20for%20visiting%20—%20let%27s%20build%20something%20real%20⚡&fontAlignY=62&fontSize=13&fontColor=ffffff&animation=twinkling"/>
-
-*© 2025 · Krishnendu Adak · All Rights Reserved*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,40:0a1f3d,100:06030f&height=120&section=footer&text=thanks%20for%20visiting%20%E2%80%94%20let%27s%20build%20something%20real%20%E2%9A%A1&fontAlignY=65&fontSize=13&fontColor=e0f2fe&animation=fadeIn"/>

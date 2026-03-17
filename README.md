@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/B.Tech_CSE-00b4d8?style=flat-square&labelColor=060d1a)
 ![](https://img.shields.io/badge/2nd_Year_·_4th_Sem-7dd3fc?style=flat-square&labelColor=060d1a)
 ![](https://img.shields.io/badge/Open_to_Opportunities_🟢-38bdf8?style=flat-square&labelColor=060d1a)
-![](https://komarev.com/ghpvc/?username=itxkisu&style=flat-square&color=00b4d8&label=VISITORS&labelColor=060d1a)
+![](https://komarev.com/ghpvc/?username=QuantumSenpai&style=flat-square&color=00b4d8&label=VISITORS&labelColor=060d1a)
 
 </div>
 
@@ -35,7 +35,6 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
 ```python
 class Kisu:
     name     = "Krishnendu Adak"
@@ -57,7 +56,6 @@ class Kisu:
 
 </td>
 <td width="50%" valign="top">
-
 ```yaml
 # system_status.yaml
 
@@ -122,13 +120,13 @@ status    : open to opportunities 🟢
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itxkisu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06030f&title_color=00b4d8&icon_color=7dd3fc&text_color=90caf9&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=QuantumSenpai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06030f&title_color=00b4d8&icon_color=7dd3fc&text_color=90caf9&count_private=true"/>
 &nbsp;
-<img height="170" src="https://streak-stats.demolab.com?user=itxkisu&theme=tokyonight&hide_border=true&background=06030f&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=90caf9&dates=1a3a5a&currStreakNum=ffffff&sideNums=ffffff"/>
+<img height="170" src="https://streak-stats.demolab.com?user=QuantumSenpai&theme=tokyonight&hide_border=true&background=06030f&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=90caf9&dates=1a3a5a&currStreakNum=ffffff&sideNums=ffffff"/>
 
 <br/>
 
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxkisu&layout=compact&theme=tokyonight&hide_border=true&bg_color=06030f&title_color=00b4d8&text_color=90caf9&langs_count=6"/>
+<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumSenpai&layout=compact&theme=tokyonight&hide_border=true&bg_color=06030f&title_color=00b4d8&text_color=90caf9&langs_count=6"/>
 
 </div>
 
@@ -138,7 +136,7 @@ status    : open to opportunities 🟢
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itxkisu&theme=react-dark&bg_color=06030f&color=00b4d8&line=7dd3fc&point=00b4d8&area=true&area_color=0a1f3d&hide_border=true)](https://github.com/itxkisu)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuantumSenpai&theme=react-dark&bg_color=06030f&color=00b4d8&line=7dd3fc&point=00b4d8&area=true&area_color=0a1f3d&hide_border=true)](https://github.com/QuantumSenpai)
 
 </div>
 
@@ -148,7 +146,7 @@ status    : open to opportunities 🟢
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itxkisu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/itxkisu)
+[![trophy](https://github-profile-trophy.vercel.app/?username=QuantumSenpai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/QuantumSenpai)
 
 </div>
 
@@ -173,7 +171,6 @@ status    : open to opportunities 🟢
 <div align="center">
 
 <br/>
-
 ```
 「 Build it. Break it. Understand it. Ship it. 」
                                           — kisu 🌸

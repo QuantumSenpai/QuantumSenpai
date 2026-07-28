@@ -1,0 +1,104 @@
+<svg viewBox="0 0 920 400" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono', Consolas, monospace">
+  <defs>
+    <linearGradient id="pcbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#150827"/>
+      <stop offset="100%" stop-color="#05010d"/>
+    </linearGradient>
+    <filter id="pglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <text x="20" y="28" fill="#c4b5fd" font-size="16" font-weight="600">PROJECTS.LIST <tspan fill="#7c3aed" font-size="13">./projects.sh --all</tspan></text>
+
+
+  <g>
+    <rect x="20" y="45" width="280" height="150" rx="10" fill="url(#pcbg)" stroke="#a855f7" stroke-width="1.1" opacity="0.95" filter="url(#pglow)"/>
+
+    <circle cx="50" cy="77" r="16" fill="none" stroke="#7c3aed" stroke-width="3" opacity="0.35"/>
+    <circle cx="50" cy="77" r="16" fill="none" stroke="#a855f7" stroke-width="3"
+      stroke-dasharray="28.1 100.5" stroke-linecap="round">
+        <animateTransform attributeName="transform" type="rotate" from="0 50 77" to="360 50 77" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="76" y="83" fill="#e9d5ff" font-size="15" font-weight="700">PROJECT_1_NAME</text>
+    <text x="38" y="111" fill="#c4b5fd" font-size="11.5">one line description here</text>
+
+    <rect x="38" y="161" width="58" height="20" rx="10" fill="none" stroke="#7c3aed" stroke-width="1"/><text x="67.0" y="175" text-anchor="middle" fill="#c4b5fd" font-size="10.5">Python</text><rect x="104" y="161" width="30" height="20" rx="10" fill="none" stroke="#7c3aed" stroke-width="1"/><text x="119.0" y="175" text-anchor="middle" fill="#c4b5fd" font-size="10.5">ML</text>
+  </g>
+
+  <g>
+    <rect x="320" y="45" width="280" height="150" rx="10" fill="url(#pcbg)" stroke="#a855f7" stroke-width="1.1" opacity="0.95" filter="url(#pglow)"/>
+
+    <circle cx="350" cy="77" r="16" fill="none" stroke="#7c3aed" stroke-width="3" opacity="0.35"/>
+    <circle cx="350" cy="77" r="16" fill="none" stroke="#a855f7" stroke-width="3"
+      stroke-dasharray="28.1 100.5" stroke-linecap="round">
+        <animateTransform attributeName="transform" type="rotate" from="0 350 77" to="360 350 77" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="376" y="83" fill="#e9d5ff" font-size="15" font-weight="700">PROJECT_2_NAME</text>
+    <text x="338" y="111" fill="#c4b5fd" font-size="11.5">one line description here</text>
+
+    <rect x="338" y="161" width="44" height="20" rx="10" fill="none" stroke="#7c3aed" stroke-width="1"/><text x="360.0" y="175" text-anchor="middle" fill="#c4b5fd" font-size="10.5">Java</text><rect x="390" y="161" width="37" height="20" rx="10" fill="none" stroke="#7c3aed" stroke-width="1"/><text x="408.5" y="175" text-anchor="middle" fill="#c4b5fd" font-size="10.5">DSA</text>
+  </g>
+
+  <g>
+    <rect x="620" y="45" width="280" height="150" rx="10" fill="url(#pcbg)" stroke="#a855f7" stroke-width="1.1" opacity="0.95" filter="url(#pglow)"/>
+
+    <circle cx="650" cy="77" r="16" fill="none" stroke="#7c3aed" stroke-width="3" opacity="0.35"/>
+    <circle cx="650" cy="77" r="16" fill="none" stroke="#a855f7" stroke-width="3"
+      stroke-dasharray="28.1 100.5" stroke-linecap="round">
+        <animateTransform attributeName="transform" type="rotate" from="0 650 77" to="360 650 77" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="676" y="83" fill="#e9d5ff" font-size="15" font-weight="700">PROJECT_3_NAME</text>
+    <text x="638" y="111" fill="#c4b5fd" font-size="11.5">one line description here</text>
+
+    <rect x="638" y="161" width="37" height="20" rx="10" fill="none" stroke="#7c3aed" stroke-width="1"/><text x="656.5" y="175" text-anchor="middle" fill="#c4b5fd" font-size="10.5">C++</text><rect x="683" y="161" width="44" height="20" rx="10" fill="none" stroke="#7c3aed" stroke-width="1"/><text x="705.0" y="175" text-anchor="middle" fill="#c4b5fd" font-size="10.5">DBMS</text>
+  </g>
+
+  <g>
+    <rect x="20" y="215" width="280" height="150" rx="10" fill="url(#pcbg)" stroke="#a855f7" stroke-width="1.1" opacity="0.95" filter="url(#pglow)"/>
+
+    <circle cx="50" cy="247" r="16" fill="none" stroke="#7c3aed" stroke-width="3" opacity="0.35"/>
+    <circle cx="50" cy="247" r="16" fill="none" stroke="#a855f7" stroke-width="3"
+      stroke-dasharray="28.1 100.5" stroke-linecap="round">
+        <animateTransform attributeName="transform" type="rotate" from="0 50 247" to="360 50 247" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="76" y="253" fill="#e9d5ff" font-size="15" font-weight="700">PROJECT_4_NAME</text>
+    <text x="38" y="281" fill="#c4b5fd" font-size="11.5">one line description here</text>
+
+    <rect x="38" y="331" width="58" height="20" rx="10" fill="none" stroke="#7c3aed" stroke-width="1"/><text x="67.0" y="345" text-anchor="middle" fill="#c4b5fd" font-size="10.5">Python</text><rect x="104" y="331" width="37" height="20" rx="10" fill="none" stroke="#7c3aed" stroke-width="1"/><text x="122.5" y="345" text-anchor="middle" fill="#c4b5fd" font-size="10.5">NLP</text>
+  </g>
+
+  <g>
+    <rect x="320" y="215" width="280" height="150" rx="10" fill="url(#pcbg)" stroke="#a855f7" stroke-width="1.1" opacity="0.95" filter="url(#pglow)"/>
+
+    <circle cx="350" cy="247" r="16" fill="none" stroke="#7c3aed" stroke-width="3" opacity="0.35"/>
+    <circle cx="350" cy="247" r="16" fill="none" stroke="#a855f7" stroke-width="3"
+      stroke-dasharray="28.1 100.5" stroke-linecap="round">
+        <animateTransform attributeName="transform" type="rotate" from="0 350 247" to="360 350 247" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="376" y="253" fill="#e9d5ff" font-size="15" font-weight="700">PROJECT_5_NAME</text>
+    <text x="338" y="281" fill="#c4b5fd" font-size="11.5">one line description here</text>
+
+    <rect x="338" y="331" width="30" height="20" rx="10" fill="none" stroke="#7c3aed" stroke-width="1"/><text x="353.0" y="345" text-anchor="middle" fill="#c4b5fd" font-size="10.5">AE</text><rect x="376" y="331" width="65" height="20" rx="10" fill="none" stroke="#7c3aed" stroke-width="1"/><text x="408.5" y="345" text-anchor="middle" fill="#c4b5fd" font-size="10.5">Editing</text>
+  </g>
+
+  <g>
+    <rect x="620" y="215" width="280" height="150" rx="10" fill="url(#pcbg)" stroke="#a855f7" stroke-width="1.1" opacity="0.95" filter="url(#pglow)"/>
+
+    <circle cx="650" cy="247" r="16" fill="none" stroke="#7c3aed" stroke-width="3" opacity="0.35"/>
+    <circle cx="650" cy="247" r="16" fill="none" stroke="#a855f7" stroke-width="3"
+      stroke-dasharray="28.1 100.5" stroke-linecap="round">
+        <animateTransform attributeName="transform" type="rotate" from="0 650 247" to="360 650 247" dur="3.7s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="676" y="253" fill="#e9d5ff" font-size="15" font-weight="700">PROJECT_6_NAME</text>
+    <text x="638" y="281" fill="#c4b5fd" font-size="11.5">one line description here</text>
+
+    <rect x="638" y="331" width="23" height="20" rx="10" fill="none" stroke="#7c3aed" stroke-width="1"/><text x="649.5" y="345" text-anchor="middle" fill="#c4b5fd" font-size="10.5">C</text><rect x="669" y="331" width="65" height="20" rx="10" fill="none" stroke="#7c3aed" stroke-width="1"/><text x="701.5" y="345" text-anchor="middle" fill="#c4b5fd" font-size="10.5">Systems</text>
+  </g>
+</svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0118,40:1a0b2e,70:3b0764,100:a855f7&height=280&section=header&text=KRISHNENDU%20ADAK&fontSize=52&fontColor=f3e8ff&fontAlignY=40&desc=quantum%20senpai%20%E2%80%94%20developer%20%2F%20creator%20%2F%20dreamer&descSize=16&descAlignY=62&descAlign=50&animation=fadeIn&stroke=a855f7&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e1f,40:150c2e,70:5a2a52,100:ff8fc9&height=280&section=header&text=KRISHNENDU%20ADAK&fontSize=52&fontColor=ffe9f6&fontAlignY=40&desc=quantum%20senpai%20%E2%80%94%20developer%20%2F%20creator%20%2F%20dreamer&descSize=16&descAlignY=62&descAlign=50&animation=fadeIn&stroke=ff8fc9&strokeWidth=2"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=680&lines=B.Tech+CSE+%40+Adamas+University%2C+Barasat;Java+%7C+C+%7C+C%2B%2B+%7C+DSA+%7C+DBMS;After+Effects+%7C+DaVinci+Resolve+%7C+Photoshop;Currently+unlocking%3A+Machine+Learning+%26+NLP+%F0%9F%8C%B8;Runs+on+chai+%E2%98%95+and+anime+OSTs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=FF8FC9&center=true&vCenter=true&width=680&lines=B.Tech+CSE+%40+Adamas+University%2C+Barasat;Java+%7C+C+%7C+C%2B%2B+%7C+DSA+%7C+DBMS;After+Effects+%7C+DaVinci+Resolve+%7C+Photoshop;Currently+unlocking%3A+Machine+Learning+%26+NLP+%F0%9F%8C%B8;Runs+on+chai+%E2%98%95+and+anime+OSTs)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,10 +22,10 @@
 
 <p align="center">
 
-![](https://img.shields.io/badge/3rd%20Year-5th%20Sem-a855f7?style=flat-square&labelColor=1a0b2e&color=a855f7)
-![](https://img.shields.io/badge/B.Tech-CSE-c4b5fd?style=flat-square&labelColor=1a0b2e)
-![](https://img.shields.io/badge/Status-Open%20to%20Opportunities%20%F0%9F%9F%A2-9333ea?style=flat-square&labelColor=1a0b2e)
-![](https://komarev.com/ghpvc/?username=QuantumSenpai&style=flat-square&color=a855f7&label=PROFILE+VIEWS&labelColor=1a0b2e)
+![](https://img.shields.io/badge/3rd%20Year-5th%20Sem-ff8fc9?style=flat-square&labelColor=150c2e&color=ff8fc9)
+![](https://img.shields.io/badge/B.Tech-CSE-cfeaff?style=flat-square&labelColor=150c2e)
+![](https://img.shields.io/badge/Status-Open%20to%20Opportunities%20%F0%9F%9F%A2-7ec8ff?style=flat-square&labelColor=150c2e)
+![](https://komarev.com/ghpvc/?username=QuantumSenpai&style=flat-square&color=ff8fc9&label=PROFILE+VIEWS&labelColor=150c2e)
 
 </p>
 
@@ -101,29 +101,29 @@ availability: open_to_work ✅
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-a855f7?style=for-the-badge&logo=openjdk&logoColor=1a0b2e&labelColor=3b0764)
-![C](https://img.shields.io/badge/C-a855f7?style=for-the-badge&logo=c&logoColor=1a0b2e&labelColor=3b0764)
-![C++](https://img.shields.io/badge/C++-a855f7?style=for-the-badge&logo=cplusplus&logoColor=1a0b2e&labelColor=3b0764)
-![Python](https://img.shields.io/badge/Python-a855f7?style=for-the-badge&logo=python&logoColor=1a0b2e&labelColor=3b0764)
+![Java](https://img.shields.io/badge/Java-ff8fc9?style=for-the-badge&logo=openjdk&logoColor=150c2e&labelColor=5a2a52)
+![C](https://img.shields.io/badge/C-ff8fc9?style=for-the-badge&logo=c&logoColor=150c2e&labelColor=5a2a52)
+![C++](https://img.shields.io/badge/C++-ff8fc9?style=for-the-badge&logo=cplusplus&logoColor=150c2e&labelColor=5a2a52)
+![Python](https://img.shields.io/badge/Python-ff8fc9?style=for-the-badge&logo=python&logoColor=150c2e&labelColor=5a2a52)
 
 **Core CS**
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-c4b5fd?style=for-the-badge&logo=leetcode&logoColor=1a0b2e&labelColor=3b0764)
-![DBMS](https://img.shields.io/badge/DBMS-c4b5fd?style=for-the-badge&logo=mysql&logoColor=1a0b2e&labelColor=3b0764)
-![Git](https://img.shields.io/badge/Git-c4b5fd?style=for-the-badge&logo=git&logoColor=1a0b2e&labelColor=3b0764)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-cfeaff?style=for-the-badge&logo=leetcode&logoColor=150c2e&labelColor=5a2a52)
+![DBMS](https://img.shields.io/badge/DBMS-cfeaff?style=for-the-badge&logo=mysql&logoColor=150c2e&labelColor=5a2a52)
+![Git](https://img.shields.io/badge/Git-cfeaff?style=for-the-badge&logo=git&logoColor=150c2e&labelColor=5a2a52)
 
 **Creative Suite**
 
-![After Effects](https://img.shields.io/badge/After%20Effects-d8b4fe?style=for-the-badge&logo=adobeaftereffects&logoColor=1a0b2e&labelColor=3b0764)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-d8b4fe?style=for-the-badge&logo=adobepremierepro&logoColor=1a0b2e&labelColor=3b0764)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-d8b4fe?style=for-the-badge&logo=davinciresolve&logoColor=1a0b2e&labelColor=3b0764)
-![Photoshop](https://img.shields.io/badge/Photoshop-d8b4fe?style=for-the-badge&logo=adobephotoshop&logoColor=1a0b2e&labelColor=3b0764)
-![Canva](https://img.shields.io/badge/Canva-d8b4fe?style=for-the-badge&logo=canva&logoColor=1a0b2e&labelColor=3b0764)
+![After Effects](https://img.shields.io/badge/After%20Effects-ffd6ec?style=for-the-badge&logo=adobeaftereffects&logoColor=150c2e&labelColor=5a2a52)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-ffd6ec?style=for-the-badge&logo=adobepremierepro&logoColor=150c2e&labelColor=5a2a52)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-ffd6ec?style=for-the-badge&logo=davinciresolve&logoColor=150c2e&labelColor=5a2a52)
+![Photoshop](https://img.shields.io/badge/Photoshop-ffd6ec?style=for-the-badge&logo=adobephotoshop&logoColor=150c2e&labelColor=5a2a52)
+![Canva](https://img.shields.io/badge/Canva-ffd6ec?style=for-the-badge&logo=canva&logoColor=150c2e&labelColor=5a2a52)
 
 **Currently Unlocking 🔓**
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-9333ea?style=for-the-badge&logo=tensorflow&logoColor=f3e8ff&labelColor=3b0764)
-![NLP](https://img.shields.io/badge/NLP-9333ea?style=for-the-badge&logo=openai&logoColor=f3e8ff&labelColor=3b0764)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7ec8ff?style=for-the-badge&logo=tensorflow&logoColor=ffe9f6&labelColor=5a2a52)
+![NLP](https://img.shields.io/badge/NLP-7ec8ff?style=for-the-badge&logo=openai&logoColor=ffe9f6&labelColor=5a2a52)
 
 </div>
 
@@ -143,13 +143,13 @@ availability: open_to_work ✅
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=QuantumSenpai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0118&title_color=a855f7&icon_color=c4b5fd&text_color=d8b4fe&count_private=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=QuantumSenpai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1f&title_color=ff8fc9&icon_color=cfeaff&text_color=ffd6ec&count_private=true&rank_icon=github"/>
 &nbsp;&nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=QuantumSenpai&theme=tokyonight&hide_border=true&background=0a0118&ring=a855f7&fire=9333ea&currStreakLabel=a855f7&sideLabels=d8b4fe&dates=3b0764&currStreakNum=f3e8ff&sideNums=f3e8ff"/>
+<img height="180" src="https://streak-stats.demolab.com?user=QuantumSenpai&theme=tokyonight&hide_border=true&background=0a0e1f&ring=ff8fc9&fire=7ec8ff&currStreakLabel=ff8fc9&sideLabels=ffd6ec&dates=5a2a52&currStreakNum=ffe9f6&sideNums=ffe9f6"/>
 
 <br/><br/>
 
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumSenpai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0118&title_color=a855f7&text_color=d8b4fe&langs_count=6"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumSenpai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1f&title_color=ff8fc9&text_color=ffd6ec&langs_count=6"/>
 
 </div>
 
@@ -176,7 +176,7 @@ availability: open_to_work ✅
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuantumSenpai&theme=react-dark&bg_color=0a0118&color=a855f7&line=c4b5fd&point=9333ea&area=true&area_color=3b0764&hide_border=true&radius=6)](https://github.com/QuantumSenpai)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuantumSenpai&theme=react-dark&bg_color=0a0e1f&color=ff8fc9&line=cfeaff&point=7ec8ff&area=true&area_color=5a2a52&hide_border=true&radius=6)](https://github.com/QuantumSenpai)
 
 </div>
 
@@ -198,9 +198,9 @@ availability: open_to_work ✅
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-itxkisu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3b0764)](mailto:itxkisu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishnendu158-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3b0764)](https://www.linkedin.com/in/krishnendu158)
-[![Instagram](https://img.shields.io/badge/Instagram-aura4.vibes-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=3b0764)](https://instagram.com/aura4.vibes)
+[![Gmail](https://img.shields.io/badge/Gmail-itxkisu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=5a2a52)](mailto:itxkisu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishnendu158-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=5a2a52)](https://www.linkedin.com/in/krishnendu158)
+[![Instagram](https://img.shields.io/badge/Instagram-aura4.vibes-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=5a2a52)](https://instagram.com/aura4.vibes)
 
 <!-- badges above sit in one centered paragraph with no fixed width, so on a
      narrow (mobile) screen they simply wrap to the next line — that's the
@@ -210,4 +210,4 @@ availability: open_to_work ✅
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,40:3b0764,100:0a0118&height=120&section=footer&text=thanks%20for%20visiting%20%E2%80%94%20let%27s%20build%20something%20real%20%E2%9A%A1&fontAlignY=65&fontSize=13&fontColor=f3e8ff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fc9,40:5a2a52,100:0a0e1f&height=120&section=footer&text=thanks%20for%20visiting%20%E2%80%94%20let%27s%20build%20something%20real%20%E2%9A%A1&fontAlignY=65&fontSize=13&fontColor=ffe9f6&animation=fadeIn"/>

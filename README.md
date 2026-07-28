@@ -5,6 +5,14 @@
 </div>
 
 <div align="center">
+  <img src="./assets/terminal-card.svg" width="780" alt="terminal profile card" />
+  <br/>
+  <sub><i>terminal-style card — lives in <code>assets/terminal-card.svg</code>. Fields boot in line-by-line, cursor blinks forever, and the dotted face in the frame flickers on its own. Send me your photo and I'll drop it inside that frame instead of the pixel-face.</i></sub>
+</div>
+
+<br/>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=680&lines=B.Tech+CSE+%40+Adamas+University%2C+Barasat;Java+%7C+C+%7C+C%2B%2B+%7C+DSA+%7C+DBMS;After+Effects+%7C+DaVinci+Resolve+%7C+Photoshop;Currently+unlocking%3A+Machine+Learning+%26+NLP+%F0%9F%8C%B8;Runs+on+chai+%E2%98%95+and+anime+OSTs)](https://git.io/typing-svg)
 
@@ -12,16 +20,17 @@
 
 <br/>
 
-<div align="center">
+<p align="center">
 
-![](https://img.shields.io/badge/3rd%20Year-5th%20Sem-a855f7?style=flat-square&labelColor=1a0b2e&color=a855f7)&nbsp;
-![](https://img.shields.io/badge/B.Tech-CSE-c4b5fd?style=flat-square&labelColor=1a0b2e)&nbsp;
-![](https://img.shields.io/badge/Status-Open%20to%20Opportunities%20%F0%9F%9F%A2-9333ea?style=flat-square&labelColor=1a0b2e)&nbsp;
+![](https://img.shields.io/badge/3rd%20Year-5th%20Sem-a855f7?style=flat-square&labelColor=1a0b2e&color=a855f7)
+![](https://img.shields.io/badge/B.Tech-CSE-c4b5fd?style=flat-square&labelColor=1a0b2e)
+![](https://img.shields.io/badge/Status-Open%20to%20Opportunities%20%F0%9F%9F%A2-9333ea?style=flat-square&labelColor=1a0b2e)
 ![](https://komarev.com/ghpvc/?username=QuantumSenpai&style=flat-square&color=a855f7&label=PROFILE+VIEWS&labelColor=1a0b2e)
 
-</div>
+</p>
 
-<br/>
+<!-- ^ badges are plain inline images inside a centered paragraph, so they naturally reflow / wrap
+     on any screen width — mobile GitHub app, tablet, or desktop — no extra CSS needed. -->
 
 ---
 
@@ -135,6 +144,23 @@ availability: open_to_work ✅
 
 ---
 
+## `contribution.snake` 🐍
+
+<div align="center">
+
+<!-- this block is generated automatically by the GitHub Action in
+     .github/workflows/snake.yml — the snake "eats" your real contribution
+     graph every 6 hours. see setup notes below. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuantumSenpai/QuantumSenpai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuantumSenpai/QuantumSenpai/output/github-snake.svg" />
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/QuantumSenpai/QuantumSenpai/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## `activity`
 
 <div align="center">
@@ -162,10 +188,9 @@ availability: open_to_work ✅
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-itxkisu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3b0764)](mailto:itxkisu@gmail.com)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krishnendu158-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3b0764)](https://www.linkedin.com/in/krishnendu158)
-&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-aura4.vibes-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=3b0764)](https://instagram.com/aura4.vibes)
+
 
 <br/><br/>
 

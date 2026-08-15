@@ -2,14 +2,15 @@
 
 # QuantumSenpai
 
-> 404: sleep not found.
+> Learning velocity and project potential.
 
+**Theme:** Neon &nbsp;·&nbsp; **Style:** Minimal &nbsp;·&nbsp; **Agent:** Full-Stack Engineer
 
 </div>
 
 <br/>
 
-Hey, it's **Kisu** - running on chai, chaos, and questionable sleep schedules.
+Hi, I'm **QuantumSenpai**. This README is tuned for a **student** profile with a Neon visual system.
 
 <p align="center">
   <picture>
@@ -68,6 +69,7 @@ Hey, it's **Kisu** - running on chai, chaos, and questionable sleep schedules.
 
 ## GitHub Stats
 
+GitSkins stat widgets rendered with the **Neon** theme.
 
 <p align="center">
   <picture>
@@ -93,7 +95,7 @@ Animated year-long contribution calendar.
 
 ## Contribution Snake 🐍
 
-The snake below eats through my real contribution graph - regenerated automatically every 6 hours via a GitHub Action.
+The snake below eats through my real contribution graph — regenerated automatically every 6 hours via a GitHub Action.
 
 <p align="center">
   <picture>

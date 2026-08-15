@@ -129,16 +129,6 @@ availability: open_to_work ✅
 
 ---
 
-## `projects`
-
-<div align="center">
-  <img src="./assets/project-cards.svg" width="880" alt="projects grid" />
-  <br/>
-  <sub><i>lives in <code>assets/project-cards.svg</code> — rings spin forever (pure CSS/SMIL, no JS). Edit the 6 placeholder names/descriptions/tags directly in that file for your real repos — see chat for exactly which lines to change.</i></sub>
-</div>
-
----
-
 ## `github.stats`
 
 <div align="center">

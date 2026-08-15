@@ -19,11 +19,11 @@ Hey, it's **Kisu** — running on chai, chaos, and questionable sleep schedules.
 
 <br/>
 
-## College
+## University
 
 - **Name:** Krishnendu Adak
 - **College:** Adamas University, Barasat
-- **Degree:** B.Tech CSE — 3rd Year, 5th Sem
+- **Degree:** B.Tech CSE - 3rd Year, 5th Sem
 - **Location:** Ghatal, West Bengal 🇮🇳
 
 <br/>

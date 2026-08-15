@@ -200,7 +200,7 @@ availability: open_to_work ✅
 
 [![Gmail](https://img.shields.io/badge/Gmail-itxkisu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=5a2a52)](mailto:itxkisu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krishnendu158-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=5a2a52)](https://www.linkedin.com/in/krishnendu158)
-[![Instagram](https://img.shields.io/badge/Instagram-aura4.vibes-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=5a2a52)](https://instagram.com/aura4.vibes)
+[![Instagram](https://img.shields.io/badge/Instagram-kyzenn.raw-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=5a2a52)](https://instagram.com/kyzenn.raw)
 
 <!-- badges above sit in one centered paragraph with no fixed width, so on a
      narrow (mobile) screen they simply wrap to the next line — that's the

@@ -8,7 +8,7 @@
 
 <br/>
 
-Hey, it's **Kisu** — running on chai, chaos, and questionable sleep schedules.
+Hey, it's **Kisu** - running on chai, chaos, and questionable sleep schedules.
 
 <p align="center">
   <picture>

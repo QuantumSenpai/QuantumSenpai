@@ -102,7 +102,11 @@ Helping local businesses build a useful digital presence.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=QuantumSenpai&bg_color=0b0d14&color=dbe4ff&line=a855f7&point=c084fc&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=QuantumSenpai&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%"/>
+
+<br/>
+
+<img src="https://ghchart.rshah.org/a855f7/QuantumSenpai" alt="GitHub contribution calendar" width="100%"/>
 
 </div>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/QuantumSenpai/QuantumSenpai/main/assets/banner.gif?v=1" alt="QuantumSenpai — bright pixel-inspired landscape banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/QuantumSenpai/QuantumSenpai/main/assets/banner.gif?v=2" alt="QuantumSenpai — bright pixel-inspired landscape banner" width="100%"/>
 
 **Krishnendu Adak · Kisu**
 

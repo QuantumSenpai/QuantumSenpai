@@ -1,15 +1,10 @@
 name: Generate contribution snake
 
 on:
-  # Regenerate twice a day and allow manual runs from the Actions tab.
+  # Refresh twice daily; manual runs are available in Actions.
   schedule:
     - cron: "17 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
@@ -23,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate light and dark snake SVGs
+      - name: Generate light and dark contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: QuantumSenpai

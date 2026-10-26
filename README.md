@@ -78,18 +78,25 @@ I'm **Krishnendu Adak**, a CSE student at **Adamas University, Barasat**. I enjo
 **Python, Data Science & Computer Vision**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,opencv&theme=dark" alt="Pandas, NumPy, Scikit-learn and OpenCV"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/TextBlob-2E6E65?style=for-the-badge" alt="TextBlob"/>
-  <img src="https://img.shields.io/badge/Uvicorn-4051B5?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Uvicorn ASGI server"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/TextBlob-2E6E65?style=flat-square" alt="TextBlob"/>
+  <img src="https://img.shields.io/badge/Uvicorn-4051B5?style=flat-square&logo=gunicorn&logoColor=white" alt="Uvicorn ASGI server"/>
 </p>
 
 **Developer Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel,xampp,datagrip,kali&theme=dark" alt="Git, GitHub, Docker, Linux, VS Code, Postman, Vercel, XAMPP, DataGrip and Kali Linux"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel&theme=dark" alt="Git, GitHub, Docker, Linux, VS Code, Postman and Vercel"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP"/>
+  <img src="https://img.shields.io/badge/DataGrip-22D1A0?style=flat-square&logo=datagrip&logoColor=111111" alt="DataGrip"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
 </p>
 
 **Creative Suite**

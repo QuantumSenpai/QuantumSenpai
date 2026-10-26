@@ -15,7 +15,6 @@
 
 <a href="https://portfolio-kisu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20space-a855f7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://github.com/QuantumSenpai?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20repos-18181b?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="Projects"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-18181b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
 
 </div>
 

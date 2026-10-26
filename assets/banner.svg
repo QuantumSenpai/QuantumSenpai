@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">QuantumSenpai</title><desc id="desc">A clean bright pixel-inspired landscape banner with QuantumSenpai branding.</desc>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff9e9"/><stop offset="1" stop-color="#dff5df"/></linearGradient><linearGradient id="hill" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#88c98c"/><stop offset="1" stop-color="#3d9669"/></linearGradient></defs>
+<rect width="1200" height="280" rx="22" fill="url(#sky)"/>
+<circle cx="1010" cy="72" r="34" fill="#ffd166"/><circle cx="1010" cy="72" r="48" fill="#ffd166" opacity=".18"/>
+<g fill="#fff" opacity=".85"><rect x="120" y="48" width="70" height="13" rx="6"/><rect x="151" y="35" width="42" height="13" rx="6"/><rect x="805" y="42" width="78" height="13" rx="6"/><rect x="841" y="29" width="45" height="13" rx="6"/></g>
+<path d="M0 190 130 130 230 176 355 105 475 180 605 125 725 174 865 115 1000 172 1100 130 1200 166V280H0Z" fill="#b6dfae"/>
+<path d="M0 215 145 170 270 211 420 155 565 218 720 163 855 210 1010 158 1120 203 1200 183V280H0Z" fill="url(#hill)"/>
+<path d="M0 244 180 214 310 241 470 210 620 245 800 212 965 242 1100 218 1200 235V280H0Z" fill="#287c5a"/>
+<g fill="#f7fff0" opacity=".85"><rect x="65" y="201" width="14" height="14"/><rect x="79" y="201" width="14" height="14"/><rect x="93" y="201" width="14" height="14"/><rect x="79" y="187" width="14" height="14"/><rect x="93" y="187" width="14" height="14"/><rect x="107" y="187" width="14" height="14"/></g>
+<g fill="#2c7a56"><rect x="1090" y="185" width="14" height="34"/><rect x="1076" y="195" width="42" height="14"/><rect x="1069" y="202" width="56" height="14"/></g>
+<text x="72" y="112" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="4" fill="#39775b">BUILD · LEARN · IMPROVE</text>
+<text x="68" y="164" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="800" font-size="48" letter-spacing="1" fill="#173d31">QUANTUMSENPAI</text>
+<rect x="72" y="178" width="220" height="4" rx="2" fill="#f1ad49"/>
+<text x="74" y="205" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#285c47">Software · AI · Cloud</text>
+</svg>

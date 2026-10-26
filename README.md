@@ -82,7 +82,7 @@ Hey, I'm **Krishnendu Adak (Kisu)** — a CSE student at **Adamas University** w
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumSenpai&repo=usage-meter-for-claude&hide_border=true&bg_color=09090b&title_color=c4b5fd&icon_color=a855f7&text_color=e4e4e7" alt="Usage Meter for Claude repository card"/>
   </a>
   <a href="https://github.com/QuantumSenpai?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumSenpai&repo=FraudLens&hide_border=true&bg_color=09090b&title_color=c4b5fd&icon_color=a855f7&text_color=e4e4e7" alt="FraudLens repository card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantumSenpai&repo=fraudlens&hide_border=true&bg_color=09090b&title_color=c4b5fd&icon_color=a855f7&text_color=e4e4e7" alt="FraudLens repository card"/>
   </a>
 </div>
 

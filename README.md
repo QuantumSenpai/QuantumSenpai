@@ -1,33 +1,55 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/QuantumSenpai/QuantumSenpai/main/assets/banner.svg?v=3" alt="QuantumSenpai — animated landscape banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/QuantumSenpai/QuantumSenpai/main/assets/banner.svg?v=4" alt="QuantumSenpai animated landscape banner" width="100%"/>
 
-**Krishnendu Adak · Kisu**
+<h2>Krishnendu Adak <sup>(Kisu)</sup></h2>
 
-B.Tech Computer Science & Engineering · Adamas University, India
+<p><strong>B.Tech CSE · Adamas University · India</strong></p>
 
-Building useful software, exploring AI, and turning ideas into working products.
+<p>Building useful software, exploring AI, and turning ideas into working products.</p>
 
-[Portfolio](https://portfolio-kisu.vercel.app/) · [Projects](https://github.com/QuantumSenpai?tab=repositories) · [GitHub](https://github.com/QuantumSenpai)
+<p>
+  <a href="https://portfolio-kisu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-203c32?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/QuantumSenpai?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-345b4a?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+  <a href="https://github.com/QuantumSenpai"><img src="https://img.shields.io/badge/GitHub-QuantumSenpai-192d26?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack-Development-345b4a?style=flat-square" alt="Full-stack development"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-c084fc?style=flat-square" alt="AI and machine learning"/>
+  <img src="https://img.shields.io/badge/Cloud%20%26%20Systems-Building-597a68?style=flat-square" alt="Cloud and systems"/>
+</p>
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ What I build
+
+- Full-stack apps and useful developer tools
+- AI/ML experiments and automation
+- Cloud systems and practical prototypes
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 Beyond the code
+
+- 🎓 B.Tech CSE at Adamas University
+- 🎬 Video editing and motion design
+- 🌱 Learning by building, breaking, and improving
+
+</td>
+</tr>
+</table>
+
 ## About Me
 
-<div align="center">
-
-### Hey, I'm Kisu 👋
-
-</div>
-
 I'm **Krishnendu Adak**, a CSE student at **Adamas University, Barasat**. I enjoy building practical projects, exploring new technologies, and turning ideas into useful products. Outside code, I'm into video editing, visual design, anime, and motion edits.
-
-- 🎓 **Education:** B.Tech CSE, Adamas University
-- 📍 **Based in:** West Bengal, India
-- 🧩 **Focus:** Full-stack development, AI/ML, cloud systems, and developer tools
-- 🎬 **Creative side:** Video editing, motion design, and anime edits
 
 > “A man without studies is an incomplete being.”
 >
@@ -53,10 +75,14 @@ I'm **Krishnendu Adak**, a CSE student at **Adamas University, Barasat**. I enjo
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" alt="MySQL, PostgreSQL, MongoDB and SQLite"/>
 </p>
 
-**Tools & Cloud**
+**Developer Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,aws&theme=dark" alt="Git, GitHub, Docker, Linux, Vercel and AWS"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel&theme=dark" alt="Git, GitHub, Docker, Linux, Visual Studio Code, Postman and Vercel"/>
+  <br/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP"/>
+  <img src="https://img.shields.io/badge/DataGrip-22D1A0?style=flat-square&logo=datagrip&logoColor=111111" alt="DataGrip"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
 </p>
 
 **Creative Suite**

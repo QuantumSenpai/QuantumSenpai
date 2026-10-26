@@ -89,11 +89,7 @@ I'm **Krishnendu Adak**, a CSE student at **Adamas University, Barasat**. I enjo
 **Developer Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel&theme=dark" alt="Git, GitHub, Docker, Linux, VS Code, Postman and Vercel"/>
-  <br/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
-  <img src="https://img.shields.io/badge/DataGrip-22D1A0?style=for-the-badge&logo=datagrip&logoColor=111111" alt="DataGrip"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel,xampp,datagrip,kali&theme=dark" alt="Git, GitHub, Docker, Linux, VS Code, Postman, Vercel, XAMPP, DataGrip and Kali Linux"/>
 </p>
 
 **Creative Suite**

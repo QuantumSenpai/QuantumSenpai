@@ -1,10 +1,15 @@
 name: Generate contribution snake
 
 on:
-  # Refresh twice daily; manual runs are available in Actions.
+  # Refresh every 6 hours, and allow manual runs from the Actions tab.
   schedule:
-    - cron: "17 */12 * * *"
+    - cron: "17 */6 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write

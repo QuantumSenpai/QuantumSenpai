@@ -78,14 +78,14 @@ I'm **Krishnendu Adak**, a CSE student at **Adamas University, Barasat**. I enjo
 **Python, Data Science & Computer Vision**
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/TextBlob-2E6E65?style=flat-square" alt="TextBlob"/>
-  <img src="https://img.shields.io/badge/Uvicorn-4051B5?style=flat-square&logo=gunicorn&logoColor=white" alt="Uvicorn ASGI server"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/TextBlob-2E6E65?style=for-the-badge" alt="TextBlob"/>
+  <img src="https://img.shields.io/badge/Uvicorn-4051B5?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Uvicorn ASGI server"/>
 </p>
 
 **Developer Tools & Platforms**
@@ -127,15 +127,21 @@ Helping local businesses build a useful digital presence.
 
 ## GitHub Stats
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=QuantumSenpai&show_icons=true&hide_border=true&bg_color=0b0d14&title_color=c084fc&icon_color=a855f7&text_color=dbe4ff&rank_icon=github" alt="GitHub profile statistics"/>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumSenpai&layout=compact&hide_border=true&bg_color=0b0d14&title_color=c084fc&text_color=dbe4ff&langs_count=6" alt="Most used languages"/>
-
-<img width="100%" src="https://streak-stats.demolab.com?user=QuantumSenpai&hide_border=true&background=0b0d14&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=dbe4ff&currStreakNum=ffffff&sideNums=dbe4ff&dates=8b93a7" alt="GitHub contribution streak"/>
-
-</div>
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=QuantumSenpai&show_icons=true&hide_border=true&bg_color=0b0d14&title_color=c084fc&icon_color=a855f7&text_color=dbe4ff&rank_icon=github" alt="GitHub profile statistics" width="100%"/>
+</td>
+<td width="50%" align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumSenpai&layout=compact&hide_border=true&bg_color=0b0d14&title_color=c084fc&text_color=dbe4ff&langs_count=6" alt="Most used languages" width="100%"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://streak-stats.demolab.com?user=QuantumSenpai&hide_border=true&background=0b0d14&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=dbe4ff&currStreakNum=ffffff&sideNums=dbe4ff&dates=8b93a7" alt="GitHub contribution streak" width="75%"/>
+</td>
+</tr>
+</table>
 
 ## Contribution Graph
 
